@@ -5,10 +5,13 @@ stim-psychophysics
 git clone https://github.com/joacovaldes/stim-psychophysics descarga a directorio de ventana de comandos
 
 git add <Nombre de archivo>
+  
 git commit 'comentario del commit'
+
 git push   # sube archivo a la nube
 
 para descargar y actualizar directorio:
+
 git pull
 
 
